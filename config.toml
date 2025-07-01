@@ -228,10 +228,6 @@ disableHugoGeneratorInject = false
     url  = "https://t.me/pynosh"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/pynosh"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:giuseppe@furnari.me"
 
@@ -262,8 +258,3 @@ disableHugoGeneratorInject = false
     identifier = "resume"
     name       = "Resume"
     url        = "/resume/"
-
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
