@@ -22,7 +22,7 @@ draft: false
 ### Services
 
 - **Proton Suite**  
-  *Privacy-focused company that i respect.*
+  *Privacy-focused company that I trust.*
 
 - **Kagi**  
   *An ad-free search engine dedicated to user privacy. Plus, their Translate tool is also excellent. It's like using Google from a decade ago.*
